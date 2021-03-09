@@ -1,0 +1,15 @@
+C:\Users\onemc\OneDrive - Waukesha County Technical College\Documents\.Net Database\WCTC-Net-DB-RaceCar\bin\Debug\net5.0\RaceTrack.exe
+C:\Users\onemc\OneDrive - Waukesha County Technical College\Documents\.Net Database\WCTC-Net-DB-RaceCar\bin\Debug\net5.0\RaceTrack.dll.config
+C:\Users\onemc\OneDrive - Waukesha County Technical College\Documents\.Net Database\WCTC-Net-DB-RaceCar\bin\Debug\net5.0\RaceTrack.deps.json
+C:\Users\onemc\OneDrive - Waukesha County Technical College\Documents\.Net Database\WCTC-Net-DB-RaceCar\bin\Debug\net5.0\RaceTrack.runtimeconfig.json
+C:\Users\onemc\OneDrive - Waukesha County Technical College\Documents\.Net Database\WCTC-Net-DB-RaceCar\bin\Debug\net5.0\RaceTrack.runtimeconfig.dev.json
+C:\Users\onemc\OneDrive - Waukesha County Technical College\Documents\.Net Database\WCTC-Net-DB-RaceCar\bin\Debug\net5.0\RaceTrack.dll
+C:\Users\onemc\OneDrive - Waukesha County Technical College\Documents\.Net Database\WCTC-Net-DB-RaceCar\bin\Debug\net5.0\ref\RaceTrack.dll
+C:\Users\onemc\OneDrive - Waukesha County Technical College\Documents\.Net Database\WCTC-Net-DB-RaceCar\bin\Debug\net5.0\RaceTrack.pdb
+C:\Users\onemc\OneDrive - Waukesha County Technical College\Documents\.Net Database\WCTC-Net-DB-RaceCar\obj\Debug\net5.0\RaceTrack.csprojAssemblyReference.cache
+C:\Users\onemc\OneDrive - Waukesha County Technical College\Documents\.Net Database\WCTC-Net-DB-RaceCar\obj\Debug\net5.0\RaceTrack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onemc\OneDrive - Waukesha County Technical College\Documents\.Net Database\WCTC-Net-DB-RaceCar\obj\Debug\net5.0\RaceTrack.csproj.CoreCompileInputs.cache
+C:\Users\onemc\OneDrive - Waukesha County Technical College\Documents\.Net Database\WCTC-Net-DB-RaceCar\obj\Debug\net5.0\RaceTrack.dll
+C:\Users\onemc\OneDrive - Waukesha County Technical College\Documents\.Net Database\WCTC-Net-DB-RaceCar\obj\Debug\net5.0\ref\RaceTrack.dll
+C:\Users\onemc\OneDrive - Waukesha County Technical College\Documents\.Net Database\WCTC-Net-DB-RaceCar\obj\Debug\net5.0\RaceTrack.pdb
+C:\Users\onemc\OneDrive - Waukesha County Technical College\Documents\.Net Database\WCTC-Net-DB-RaceCar\obj\Debug\net5.0\RaceTrack.genruntimeconfig.cache
